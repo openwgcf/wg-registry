@@ -1,0 +1,19 @@
+{
+  "server_pubkey": "R30w5D0UmRJBy22kL+QUqHxDek0AWuIyxnEGXev3xTc=",
+  "segment": 41,
+  "overlay": {
+    "v4": "100.64.0.41/32",
+    "v6": "fd58:2e26:d0af:0::41/128"
+  },
+  "site": {
+    "v4": "192.168.41.0/24",
+    "v6": "fd58:2e26:d0af:41::/64"
+  },
+  "endpoints": [
+    {
+      "host": "2603:c02b:30a:82ab:0:3f25:b297:c366",
+      "port": 22173,
+      "family": "ipv6"
+    }
+  ]
+}

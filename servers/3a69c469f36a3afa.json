@@ -1,0 +1,11 @@
+{
+  "pubkey": "lhvcyf/YwfTJnSXcS67jtPHiJx0ZZsmZlMzOvBQfPEc=",
+  "ula": "fde8:d744:d9ac::/48",
+  "endpoints": [
+    {
+      "host": "2603:c02b:30a:82ab:0:b7cc:c0b3:5a6c",
+      "port": 31642,
+      "family": "ipv6"
+    }
+  ]
+}

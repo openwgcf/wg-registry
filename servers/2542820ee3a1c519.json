@@ -3,7 +3,7 @@
   "endpoints": [
     {
       "host": "2603:c02b:30a:82ab:0:3a94:60cb:ac51",
-      "port": 25557,
+      "port": 21631,
       "family": "ipv6"
     }
   ]

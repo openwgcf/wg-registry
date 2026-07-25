@@ -1,0 +1,10 @@
+{
+  "pubkey": "4X8++NzNDwNFr8ws54mfpnUGQZP1HpYUid7TygldrHM=",
+  "endpoints": [
+    {
+      "host": "2603:c02b:30a:82ab:0:781d:589c:14c6",
+      "port": 28674,
+      "family": "ipv6"
+    }
+  ]
+}
